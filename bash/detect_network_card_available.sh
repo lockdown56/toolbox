@@ -9,7 +9,7 @@ do
   then
     echo "$interface is ok"
   else
-    echo "$interface cannot use"
+    echo "$interface is disavailable"
   fi
 done
 
